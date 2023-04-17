@@ -1,0 +1,12 @@
+json = {
+	"ipse" : "dixit",
+	"count" : 100,
+	"list" : [1, 2, 3, 4],
+	"composite" {
+		"mother" : "fucker",
+		"esculapio" : "inculatio",
+		"altra lista" : [ "tu", "eri", "chiara", "e", "trasparente", "come", "me" ]
+	},
+	"print" : ["qualche", "cazzo", "di", "fuzione"]
+}
+			   
